@@ -3,3 +3,22 @@
     margin: 0;
     font-family: sans-serif;
 }
+.main1
+{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.main2
+{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.header
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
