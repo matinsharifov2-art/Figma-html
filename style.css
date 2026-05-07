@@ -22,3 +22,52 @@
     align-items: center;
     padding: 20px 0;
 }
+.sec2
+{
+    width: 1440px;
+    height: 646px;
+    margin: auto;
+    background-image: url(./522e6a5f380cba7232041d621d835a77aaeaf072.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.inner2
+{
+    background-color: #3559C7;
+    color: white;
+    width: 300px;
+    text-align: center;
+    padding: 20px 0 0 0;
+    margin-left: 1135px;
+    margin-top: 330px;
+    
+}
+.pback
+{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    width: 140px;
+    
+}
+.pnext
+{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    width: 159px;
+}
+.inner201
+{
+    display: flex;
+    gap: 2px;
+}
+.inner1 
+{
+    font-size: 40px;
+    margin-left: 50px;
+    width: 600px;
+    
+}
