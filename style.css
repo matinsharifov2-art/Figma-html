@@ -71,3 +71,29 @@
     width: 600px;
     
 }
+.hour
+{
+    text-align: center;
+    padding: 20px 0;
+}
+.pnullam
+{
+    color: grey;
+}
+.cont1
+{
+    padding: 20px;
+    border: 1px solid orange;
+    width: 250px;
+    border-radius: 15px;
+}
+.flex
+{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.sec3
+{
+    margin-top: 50px;
+}
